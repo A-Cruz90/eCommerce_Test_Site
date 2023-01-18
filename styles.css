@@ -9,9 +9,13 @@
 html{
     box-sizing: border-box;
     font-size: 62.5%;
+    font-family:'Segoe UI';
 }
 
 nav {
-    background-color: skyblue;
-    
+    background-color:white
+}
+
+footer{
+    background-color: #bf7631;
 }
